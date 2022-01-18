@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Manexid</string>
+
+    <string name="email_id">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up">Sign Up</string>
+
+    <string name="title_activity_camera">CameraActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="title_activity_h">HActivity</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="back"><![CDATA[<]]></string>
+    <string name="create_account">Create Account</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_surname">Enter SurName</string>
+    <string name="enter_phone">Enter Phone</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="re_enter_password">Re-Enter Password</string>
+    <string name="submit">Submit</string>
+    <string name="terms_of_condition">TERMS OF CONDITION I agree?</string>
+
+    <string-array name="settings_arrays">
+        <item>Home</item>
+        <item>Receipt</item>
+        <item>Help</item>
+    </string-array>
+
+    <string name="reset_password">Reset Password</string>
+    <string name="reset">reset</string>
+    <string name="account_details">Account Details</string>
+    <string name="logout">logout</string>
+    <string name="close">close</string>
+    <string name="receipt_image">Receipt Image</string>
+    <string name="upload">Upload</string>
+    <string name="retake">Retake</string>
+    <string name="receipt">Receipt</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="edit_receipt">Edit Receipt</string>
+    <string name="details">Details</string>
+    <string name="type">Type</string>
+    <string name="merchant">Merchant</string>
+    <string name="receipt_date">Receipt Date</string>
+    <string name="currency">Currency</string>
+    <string name="total">Total</string>
+    <string name="tax">Tax</string>
+    <string name="total_tax">Total Tax</string>
+    <string name="category">Category</string>
+    <string name="btn_add_category">Add new category</string>
+    <string name="save">Save</string>
+    <string name="input_category_name">Input category name: </string>
+    <string name="total_expense">Total expense: </string>
+    <string name="daily">Daily</string>
+    <string name="monthly">Monthly</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="phone">Phone</string>
+    <string name="change_password">Change Password</string>
+    <string name="failed_to_update_category">Failed to edit category, user did not have access</string>
+    <string name="about_us_title">MANEXID PRODUCT FOR HUMAN DRIVEN SCANNING RECEIPT OF PERNONAL EXPENSE OF REAL-DATA</string>
+    <string name="about_us_body">Manexid is a personal expense management digital image processing application designed and created by BOBBY ALVIN, studied at STT INDONESIA. Manexid is run with OCR (Optical Character Recognition) technology, you only need to capture the receipts and the OCR will scan and read the captured receipts then exported to digital form and calculate your expenses</string>
+    <string name="see_detail">see detail</string>
+    <string name="see_less">see less</string>
+    <string name="privacy">Privacy</string>
+    <string name="enter_new_password">Enter new password</string>
+    <string name="confirm_new_password">Confirm new password</string>
+</resources>
